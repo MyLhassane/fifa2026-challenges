@@ -93,7 +93,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324579707-p9tdwg.png",
       "p": "Attaquant",
       "v": [
-        3
+        3,
+        92
       ]
     },
     {
@@ -103,7 +104,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783234042243-d984io.png",
       "p": "Milieu",
       "v": [
-        7
+        7,
+        71
       ]
     },
     {
@@ -113,7 +115,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325340177-3tuz5f.png",
       "p": "Défense",
       "v": [
-        8
+        8,
+        71
       ]
     },
     {
@@ -123,6 +126,7 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328957678-i9hsg2.png",
       "p": "Attaquant",
       "v": [
+        74,
         77
       ]
     },
@@ -133,6 +137,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298197286-xm7hh7.png",
       "p": "Défense",
       "v": [
+        3,
+        92,
         96
       ]
     },
@@ -143,6 +149,10 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324705303-7cce27.png",
       "p": "Gardien",
       "v": [
+        7,
+        71,
+        92,
+        96,
         173
       ]
     },
@@ -153,6 +163,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073279759-sz6a0f.png",
       "p": "Milieu",
       "v": [
+        7,
+        71,
         92
       ]
     },
@@ -163,6 +175,7 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324874502-8kt69c.png",
       "p": "Attaquant",
       "v": [
+        8,
         71
       ]
     },
@@ -173,7 +186,9 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326312119-5lpwv4.png",
       "p": "Défense",
       "v": [
-        74
+        74,
+        92,
+        96
       ]
     },
     {
@@ -374,7 +389,8 @@
       "f": "Meunier",
       "g": "Thomas",
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324653321-awx2g6.png",
-      "p": "Défense"
+      "p": "Défense",
+      "v": []
     },
     {
       "id": 757,
