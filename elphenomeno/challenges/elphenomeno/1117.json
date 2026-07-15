@@ -93,6 +93,7 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326178976-63dr6p.png",
       "p": "Attaquant",
       "v": [
+        64,
         92
       ]
     },
@@ -103,7 +104,9 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325371018-7gjdkr.png",
       "p": "Défense",
       "v": [
-        64
+        64,
+        83,
+        92
       ]
     },
     {
@@ -113,7 +116,9 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328971499-vpbys3.png",
       "p": "Attaquant",
       "v": [
-        73
+        71,
+        73,
+        74
       ]
     },
     {
@@ -123,7 +128,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782986254963-wk7ecl.png",
       "p": "Gardien",
       "v": [
-        71
+        71,
+        203
       ]
     },
     {
@@ -133,7 +139,11 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782961597694-x7iyfe.png",
       "p": "Défense",
       "v": [
-        74
+        64,
+        73,
+        74,
+        82,
+        92
       ]
     },
     {
@@ -143,6 +153,8 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782986108713-7wvl3e.png",
       "p": "Milieu",
       "v": [
+        73,
+        92,
         203
       ]
     },
@@ -153,7 +165,10 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782879076643-csvwdz.png",
       "p": "Milieu",
       "v": [
-        82
+        71,
+        82,
+        92,
+        102
       ]
     },
     {
@@ -163,7 +178,10 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324846854-h9c6vb.png",
       "p": "Attaquant",
       "v": [
-        83
+        71,
+        82,
+        83,
+        92
       ]
     },
     {
@@ -173,6 +191,9 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782886820272-s760xz.png",
       "p": "Défense",
       "v": [
+        64,
+        83,
+        92,
         102
       ]
     },
@@ -444,7 +465,8 @@
       "id": 181,
       "f": "اختبار بعد اغلاق المتصفح",
       "g": "خرابيش",
-      "image": "https://raw.githubusercontent.com/MyLhassane/fifa2026-images/main/fifa2026/images/1782549062930-v9nwxb.png"
+      "image": "https://raw.githubusercontent.com/MyLhassane/fifa2026-images/main/fifa2026/images/1782549062930-v9nwxb.png",
+      "v": []
     },
     {
       "id": 708,
