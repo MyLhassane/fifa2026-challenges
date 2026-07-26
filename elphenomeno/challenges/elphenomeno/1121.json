@@ -6,81 +6,81 @@
       {
         "displayName": "MAN",
         "id": 3,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png",
         "name": "MANCHESTER CITY",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "REA",
         "id": 7,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png",
         "name": "REAL MADRID",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "BAR",
         "id": 8,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png",
         "name": "BARCELONA",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "BAY",
         "id": 77,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486062061-clltmv.png",
         "name": "BAYERN MUNICH",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486062061-clltmv.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "CHE",
         "id": 96,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486111351-osn0ok.png",
         "name": "CHELSEA FC",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486111351-osn0ok.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "ATL",
         "id": 173,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783475920778-e30ewf.png",
         "name": "ATLÉTICO MADRID",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783475920778-e30ewf.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "PRE",
         "id": 92,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png",
         "name": "PREMIER LEAGUE",
-        "type": 3,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png"
+        "type": 3
       }
     ],
     [
       {
         "displayName": "LA ",
         "id": 71,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406524477-x7bda4.png",
         "name": "LA LIGA",
-        "type": 3,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406524477-x7bda4.png"
+        "type": 3
       }
     ],
     [
       {
         "displayName": "SER",
         "id": 74,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406501422-dgrmdm.png",
         "name": "SERIE A",
-        "type": 3,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406501422-dgrmdm.png"
+        "type": 3
       }
     ]
   ],
@@ -93,7 +93,12 @@
       "p": "Attaquant",
       "v": [
         3,
-        92
+        155,
+        92,
+        64,
+        65,
+        37,
+        2
       ]
     },
     {
@@ -104,7 +109,14 @@
       "p": "Milieu",
       "v": [
         7,
-        71
+        107,
+        71,
+        62,
+        27,
+        81,
+        102,
+        6,
+        101
       ]
     },
     {
@@ -115,7 +127,13 @@
       "p": "Défense",
       "v": [
         8,
-        71
+        194,
+        6,
+        71,
+        64,
+        43,
+        82,
+        166
       ]
     },
     {
@@ -125,8 +143,22 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328957678-i9hsg2.png",
       "p": "Attaquant",
       "v": [
+        76,
+        77,
+        78,
+        80,
+        79,
+        90,
+        64,
+        65,
+        73,
+        75,
         74,
-        77
+        56,
+        81,
+        84,
+        85,
+        89
       ]
     },
     {
@@ -136,9 +168,18 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298197286-xm7hh7.png",
       "p": "Défense",
       "v": [
+        107,
         3,
+        96,
+        114,
+        62,
         92,
-        96
+        31,
+        2,
+        81,
+        102,
+        82,
+        101
       ]
     },
     {
@@ -149,10 +190,18 @@
       "p": "Gardien",
       "v": [
         7,
-        71,
-        92,
         96,
-        173
+        173,
+        2,
+        6,
+        92,
+        71,
+        65,
+        37,
+        81,
+        102,
+        82,
+        101
       ]
     },
     {
@@ -162,9 +211,21 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073279759-sz6a0f.png",
       "p": "Milieu",
       "v": [
+        99,
         7,
+        5,
+        218,
+        72,
         71,
-        92
+        64,
+        92,
+        121,
+        23,
+        81,
+        87,
+        102,
+        2,
+        168
       ]
     },
     {
@@ -175,7 +236,10 @@
       "p": "Attaquant",
       "v": [
         8,
-        71
+        6,
+        71,
+        39,
+        169
       ]
     },
     {
@@ -185,43 +249,16 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326312119-5lpwv4.png",
       "p": "Défense",
       "v": [
+        175,
+        96,
+        148,
+        65,
         74,
         92,
-        96
-      ]
-    },
-    {
-      "f": "Dest",
-      "g": "Serginho",
-      "id": 184,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885867199-0lbld0.png",
-      "p": "Défense",
-      "v": [
-        8,
-        71,
-        74
-      ]
-    },
-    {
-      "f": "ENDRICK",
-      "g": "MOREIRA",
-      "id": 113,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073256605-361ku1.png",
-      "p": "Attaquant",
-      "v": [
-        7,
-        71
-      ]
-    },
-    {
-      "f": "Haaland",
-      "g": "Erling",
-      "id": 612,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325452492-ywi9j2.png",
-      "p": "Attaquant",
-      "v": [
-        3,
-        92
+        121,
+        45,
+        168,
+        203
       ]
     },
     {
@@ -231,7 +268,200 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783329033729-heui6e.png",
       "p": "Défense",
       "v": [
-        3
+        3,
+        56,
+        2,
+        101,
+        102
+      ]
+    },
+    {
+      "f": "Mbappe",
+      "g": "Kylian",
+      "id": 592,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325262719-3n4wa7.png",
+      "p": "Attaquant",
+      "v": [
+        127,
+        125,
+        131,
+        129,
+        7,
+        170,
+        99,
+        64,
+        43,
+        9,
+        101,
+        102,
+        87,
+        166
+      ]
+    },
+    {
+      "f": "Olmo",
+      "g": "Dani",
+      "id": 496,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324906888-6rkxs8.png",
+      "p": "Milieu",
+      "v": [
+        8,
+        112,
+        6,
+        73,
+        39,
+        169,
+        166
+      ]
+    },
+    {
+      "f": "Neuer",
+      "g": "Manuel",
+      "id": 247,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783235421664-8ci32p.png",
+      "p": "Gardien",
+      "v": [
+        77,
+        119,
+        73,
+        28,
+        9,
+        84,
+        81,
+        102,
+        101
+      ]
+    },
+    {
+      "f": "MARTINELLI",
+      "g": "GABRIEL",
+      "id": 115,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073245192-18jmfq.png",
+      "p": "Attaquant",
+      "v": [
+        4,
+        151,
+        92,
+        23,
+        2
+      ]
+    },
+    {
+      "f": "Ramos",
+      "g": "Goncalo",
+      "id": 760,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327528963-s5nj8u.png",
+      "p": "Attaquant",
+      "v": [
+        129,
+        170,
+        158,
+        174,
+        162,
+        117,
+        110,
+        64,
+        72,
+        71,
+        51,
+        81,
+        102,
+        101,
+        166,
+        87
+      ]
+    },
+    {
+      "f": "Paredes",
+      "g": "Leandro",
+      "id": 671,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326735797-g4fxwj.png",
+      "p": "Milieu",
+      "v": [
+        170,
+        221,
+        136,
+        167,
+        199,
+        64,
+        153,
+        74,
+        200,
+        47,
+        165,
+        9,
+        87
+      ]
+    },
+    {
+      "f": "Dest",
+      "g": "Serginho",
+      "id": 184,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885867199-0lbld0.png",
+      "p": "Défense",
+      "v": [
+        90,
+        8,
+        172,
+        105,
+        71,
+        75,
+        74,
+        24,
+        89
+      ]
+    },
+    {
+      "f": "ENDRICK",
+      "g": "MOREIRA",
+      "id": 113,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073256605-361ku1.png",
+      "p": "Attaquant",
+      "v": [
+        156,
+        7,
+        109,
+        151,
+        71,
+        64,
+        23,
+        102,
+        101
+      ]
+    },
+    {
+      "f": "Haaland",
+      "g": "Erling",
+      "id": 612,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325452492-ywi9j2.png",
+      "p": "Attaquant",
+      "v": [
+        100,
+        130,
+        125,
+        3,
+        79,
+        2,
+        73,
+        92,
+        44,
+        81,
+        101,
+        102
+      ]
+    },
+    {
+      "f": "Gvardiol",
+      "g": "Josko",
+      "id": 855,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783329033729-heui6e.png",
+      "p": "Défense",
+      "v": [
+        3,
+        56,
+        2,
+        101,
+        102
       ]
     },
     {
@@ -242,7 +472,9 @@
       "p": "Défense",
       "v": [
         8,
-        71
+        6,
+        71,
+        39
       ]
     },
     {
@@ -252,8 +484,22 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326192518-he4krp.png",
       "p": "Attaquant",
       "v": [
+        130,
+        137,
         77,
-        92
+        5,
+        111,
+        121,
+        73,
+        92,
+        45,
+        168,
+        84,
+        2,
+        81,
+        203,
+        102,
+        101
       ]
     },
     {
@@ -263,9 +509,17 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327730824-x2xifq.png",
       "p": "Attaquant",
       "v": [
+        162,
+        96,
+        171,
+        144,
         74,
         92,
-        96
+        72,
+        51,
+        166,
+        101,
+        83
       ]
     },
     {
@@ -276,8 +530,15 @@
       "p": "Défense",
       "v": [
         7,
+        77,
+        6,
+        73,
         71,
-        77
+        48,
+        81,
+        102,
+        101,
+        84
       ]
     },
     {
@@ -287,9 +548,18 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324569266-8g2zq8.png",
       "p": "Attaquant",
       "v": [
+        148,
+        136,
+        96,
+        76,
+        124,
+        93,
         74,
         92,
-        96
+        65,
+        37,
+        85,
+        101
       ]
     },
     {
@@ -299,7 +569,13 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324983940-g5ou6u.png",
       "p": "Gardien",
       "v": [
-        92
+        4,
+        201,
+        2,
+        92,
+        39,
+        166,
+        169
       ]
     },
     {
@@ -310,7 +586,15 @@
       "p": "Milieu",
       "v": [
         77,
-        92
+        5,
+        105,
+        92,
+        73,
+        75,
+        31,
+        2,
+        84,
+        89
       ]
     },
     {
@@ -318,7 +602,18 @@
       "g": "Thomas",
       "id": 454,
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324653321-awx2g6.png",
-      "p": "Défense"
+      "p": "Défense",
+      "v": [
+        170,
+        79,
+        147,
+        64,
+        65,
+        62,
+        73,
+        37,
+        87
+      ]
     },
     {
       "f": "Felix",
@@ -327,12 +622,22 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327667678-5bg6mk.png",
       "p": "Attaquant",
       "v": [
+        127,
         8,
-        71,
-        74,
-        92,
+        158,
+        173,
         96,
-        173
+        172,
+        137,
+        72,
+        71,
+        92,
+        74,
+        121,
+        51,
+        168,
+        83,
+        166
       ]
     },
     {
@@ -343,7 +648,10 @@
       "p": "Milieu",
       "v": [
         8,
-        71
+        6,
+        71,
+        39,
+        169
       ]
     },
     {
@@ -353,8 +661,22 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325309053-tacj36.png",
       "p": "Milieu",
       "v": [
+        218,
+        96,
+        91,
+        107,
+        121,
         92,
-        96
+        62,
+        43,
+        9,
+        101,
+        166,
+        82,
+        102,
+        81,
+        2,
+        168
       ]
     },
     {
@@ -364,8 +686,16 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328200921-fu8rwv.png",
       "p": "Attaquant",
       "v": [
+        164,
+        149,
+        5,
         77,
-        92
+        73,
+        92,
+        72,
+        52,
+        84,
+        2
       ]
     },
     {
@@ -375,8 +705,24 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326642687-smie2b.png",
       "p": "Attaquant",
       "v": [
+        10,
+        165,
+        100,
+        127,
+        125,
+        164,
         8,
-        71
+        220,
+        170,
+        6,
+        64,
+        61,
+        71,
+        47,
+        9,
+        101,
+        81,
+        102
       ]
     },
     {
@@ -386,8 +732,18 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073371489-4xvymm.png",
       "p": "Gardien",
       "v": [
+        158,
         3,
-        92
+        107,
+        72,
+        62,
+        92,
+        23,
+        2,
+        81,
+        102,
+        165,
+        101
       ]
     },
     {
@@ -398,7 +754,14 @@
       "p": "Défense",
       "v": [
         3,
-        92
+        158,
+        72,
+        92,
+        51,
+        2,
+        166,
+        102,
+        101
       ]
     },
     {
@@ -409,7 +772,10 @@
       "p": "Gardien",
       "v": [
         8,
-        71
+        227,
+        6,
+        71,
+        39
       ]
     },
     {
@@ -419,8 +785,17 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328989416-thugvp.png",
       "p": "Milieu",
       "v": [
+        10,
+        100,
         7,
-        92
+        98,
+        80,
+        172,
+        6,
+        92,
+        56,
+        101,
+        102
       ]
     },
     {
@@ -430,8 +805,21 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325269212-udfmkr.png",
       "p": "Attaquant",
       "v": [
+        10,
+        100,
+        129,
         8,
-        71
+        170,
+        79,
+        155,
+        6,
+        64,
+        71,
+        73,
+        43,
+        87,
+        102,
+        101
       ]
     },
     {
@@ -441,10 +829,20 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325350755-s4948f.png",
       "p": "Défense",
       "v": [
+        175,
+        172,
         7,
-        71,
+        110,
+        173,
         74,
-        173
+        71,
+        121,
+        43,
+        81,
+        102,
+        101,
+        85,
+        166
       ]
     },
     {
@@ -454,90 +852,17 @@
       "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325153494-cwc0lu.png",
       "p": "Milieu",
       "v": [
+        80,
+        167,
+        221,
         74,
-        92
-      ]
-    },
-    {
-      "f": "Olise",
-      "g": "Michael",
-      "id": 583,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325298285-cphz1g.png",
-      "p": "Milieu",
-      "v": [
-        77,
-        92
-      ]
-    },
-    {
-      "f": "Tchouameni",
-      "g": "Aurelien",
-      "id": 585,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325290085-a04pf6.png",
-      "p": "Milieu",
-      "v": [
-        7,
-        71
-      ]
-    },
-    {
-      "f": "de jong",
-      "g": "frenkie",
-      "id": 339,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298111204-g3sqe5.png",
-      "p": "Milieu",
-      "v": [
-        8,
-        71
-      ]
-    },
-    {
-      "f": "Cucurella",
-      "g": "Marc",
-      "id": 487,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324964441-ynjqwg.png",
-      "p": "Défense",
-      "v": [
-        7,
-        71,
         92,
-        96
-      ]
-    },
-    {
-      "f": "de Paul",
-      "g": "Rodrigo",
-      "id": 673,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326727679-h0xsi4.png",
-      "p": "Milieu",
-      "v": [
-        71,
-        74,
-        173
-      ]
-    },
-    {
-      "f": "Oyarzabal",
-      "g": "Mikel",
-      "id": 505,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324865046-2cdh4g.png",
-      "p": "Attaquant",
-      "v": [
-        71
-      ]
-    },
-    {
-      "f": "RAPHINHA",
-      "g": "DIAS",
-      "id": 117,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073225793-fmme8h.png",
-      "p": "Attaquant",
-      "v": [
-        8,
-        71,
-        92
+        153,
+        40,
+        85,
+        82
       ]
     }
   ],
-  "publishedAt": "2026-07-14T23:58:31.509Z"
+  "publishedAt": "2026-07-26T18:28:42.536Z"
 }
